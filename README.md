@@ -33,7 +33,7 @@ Advanced Techniques: Object Detection, Image Segmentation, and Generative Models
 
 Case Studies: DALL-E, CLIP, and VisualGPT
 
-### Applied AI in Industry Tasks: Applications in Healthcare, Autonomous Vehicles, and Media, Pharma
+### Course 3: Applied AI in Industry Tasks. Applications in Healthcare, Autonomous Vehicles, and Media, Pharma, etc
 
 #### Course 3.1 AI in Manufacturing: Predictive Maintenance and Quality Control
 
