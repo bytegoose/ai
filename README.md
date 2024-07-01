@@ -15,6 +15,9 @@ To equip participants with the skills to critically evaluate and contribute to t
 
 ## Breakdown of Course Outline:
 
+### Model Fundamentals Stack
+Architecture - Data - Optimization - Systems
+
 ### Course 1: Introduction to Large Language Models (LLMs)
 
 Overview of LLMs: History and Evolution
