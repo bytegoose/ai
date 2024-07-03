@@ -1,5 +1,13 @@
 ## Model compression
 
+### Model Optimization
+Parameters, Model Size, Activations, MAC,FLOP,OPS, Latency, Throughput
+#### Conv Nets
+Normalization: Batch Norm, Layer Norm, Instance Norm, Weight Norm, Group Norm
+Activation Function (non linear ):Sigmoid, ReLU, LeackyReLU, ReLU6, Swish, Hard Swish
+Conv Layer: Output Size= ( Input Size−Filter Size+2×Padding) / Stride + 1
+
+
 ### LLM Compression Training and Inference
 #### Pruning
 #### Sparsity
@@ -9,6 +17,9 @@
 Knowledge distillation is a machine learning technique that involves transferring knowledge from a large, complex model (the "teacher" model) to a smaller, more efficient model (the "student" model). The goal is to enable the student model to achieve similar performance to the teacher model while being more compact and faster to run, which is particularly useful for applications with resource constraints, such as mobile devices or embedded systems.
 
 ### On-Device Training
+
+### ML Performance Benchmarks
+MLPerf https://mlcommons.org/benchmarks/
 
 
 ## References
