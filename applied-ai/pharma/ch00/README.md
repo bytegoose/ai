@@ -16,6 +16,7 @@
 - https://ocw.mit.edu/courses/6-047-computational-biology-fall-2015/pages/lectures_slides/
 - https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/pages/syllabus/
 - https://ocw.mit.edu/courses/20-453j-biomedical-information-technology-fall-2008/pages/lecture-notes/
+- http://introtodeeplearning.com/
 - https://ocw.mit.edu/courses/7-89j-topics-in-computational-and-systems-biology-fall-2010/pages/syllabus/
 - https://ocw.mit.edu/courses/9-01-neuroscience-and-behavior-fall-2003/pages/readings/
 - https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/pages/lecture-slides-and-files/
