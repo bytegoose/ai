@@ -1,9 +1,9 @@
-# AI Research: Courses Based on the latest trends in AI space
+# AI Research: the latest trends in AI space
 
-## Course Material:
+##  Material:
 This advanced-level course is designed for researchers, practitioners, and graduate students interested in the cutting-edge developments in artificial intelligence. The course delves deep into the latest research trends, focusing on three primary areas: Large Language Models (LLMs), Large Visual Models (LVMs), and Applied AI in industry tasks. Through a combination of lectures, case studies, and hands-on projects, participants will gain a comprehensive understanding of the theoretical underpinnings and practical applications of these technologies.
 
-## Course Objectives:
+## Objectives:
 
 To provide an in-depth understanding of the architecture, capabilities, and limitations of Large Language Models (LLMs).
 
