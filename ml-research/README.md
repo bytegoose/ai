@@ -88,6 +88,16 @@ Metric Learning
 
 Reinforcement Learning Algorithms (e.g., Q-Learning, SARSA, Policy Gradients)
 
+### Survival Analysis
+Semi-Parametric:
+  1) Deep Cox/Faraggi-Simon (pycox)
+  2) Linear Cox CPH (lifelines)
+Parametric:
+  3) Deep Survival Machines (dsm, dsm_loss, dsm_utilities)
+  4) Weibull AFT (lifelines)
+Non-Parametric
+  5) Random Survival Forest (pysurvival)
+
 ### Unsupervised Learning Algorithms:
 
 K-Means Clustering
