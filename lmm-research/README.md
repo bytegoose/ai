@@ -1,6 +1,10 @@
 # LMM - Large Multimodal Models
 ## Modalities: text, audio, speech, video, image
 
+## Architectures 
+BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models: https://arxiv.org/abs/2301.12597
+GIT: A Generative Image-to-text Transformer for Vision and Language - https://arxiv.org/abs/2205.14100
+
 ### References
 Microsoft COCO Captions: Data Collection and Evaluation Server (Apr 2015)
 VQA: Visual Question Answering (May 2015)
