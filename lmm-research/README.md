@@ -1,7 +1,7 @@
 # LMM - Large Multimodal Models
 ## Modalities: text, audio, speech, video, image
 
-## Architectures 
+## Architectures (multilingual, audio, and vision capabilities)
 BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models: https://arxiv.org/abs/2301.12597
 
 GIT: A Generative Image-to-text Transformer for Vision and Language - https://arxiv.org/abs/2205.14100
@@ -17,6 +17,10 @@ PaLM-E: An Embodied Multimodal Language Model https://arxiv.org/abs/2303.03378. 
 Multi Languages: https://x-llm.github.io/
 
 PandaGPT (Voice, Image, Video): https://panda-gpt.github.io/
+
+ChatBridge GPT (Voice , Image, Video): https://iva-chatbridge.github.io/
+
+GPT4o - it accepts as input any combination of text, audio, image, and video and generates any combination of text, audio, and image outputs
 
 ## Applications BioTech & Health Care
 Pathology Assistant: https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology
