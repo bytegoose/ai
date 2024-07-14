@@ -22,6 +22,8 @@ ChatBridge GPT (Voice , Image, Video): https://iva-chatbridge.github.io/
 
 GPT4o - it accepts as input any combination of text, audio, image, and video and generates any combination of text, audio, and image outputs
 
+Paligemma : https://github.com/google-research/big_vision/tree/main/big_vision/configs/proj/paligemma
+
 ## Applications BioTech & Health Care
 Pathology Assistant: https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology
 
