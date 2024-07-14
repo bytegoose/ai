@@ -3,8 +3,12 @@
 
 ## Architectures 
 BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models: https://arxiv.org/abs/2301.12597
+
 GIT: A Generative Image-to-text Transformer for Vision and Language - https://arxiv.org/abs/2205.14100
+
 Flamingo: a Visual Language Model for Few-Shot Learning. https://arxiv.org/abs/2204.14198
+
+SpeechGPT: https://github.com/0nutation/SpeechGPT
 
 ### References
 Microsoft COCO Captions: Data Collection and Evaluation Server (Apr 2015)
