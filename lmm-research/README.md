@@ -10,6 +10,21 @@ Flamingo: a Visual Language Model for Few-Shot Learning. https://arxiv.org/abs/2
 
 SpeechGPT: https://github.com/0nutation/SpeechGPT
 
+Video Chat: https://github.com/mbzuai-oryx/Video-ChatGPT
+
+PaLM-E: An Embodied Multimodal Language Model https://arxiv.org/abs/2303.03378. https://palm-e.github.io/
+
+Multi Languages: https://x-llm.github.io/
+
+PandaGPT (Voice, Image, Video): https://panda-gpt.github.io/
+
+## Applications BioTech & Health Care
+Pathology Assistant: https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology
+
+Medical Visual Question Answering: https://github.com/xiaoman-zhang/PMC-VQA
+
+Language and Vision Assistant for Medicine: https://github.com/microsoft/LLaVA-Med
+
 ### References
 Microsoft COCO Captions: Data Collection and Evaluation Server (Apr 2015)
 VQA: Visual Question Answering (May 2015)
