@@ -30,9 +30,9 @@ Medical Visual Question Answering: https://github.com/xiaoman-zhang/PMC-VQA
 Language and Vision Assistant for Medicine: https://github.com/microsoft/LLaVA-Med
 
 ### References
-Microsoft COCO Captions: Data Collection and Evaluation Server (Apr 2015)
-VQA: Visual Question Answering (May 2015)
-VideoBERT: A Joint Model for Video and Language Representation Learning (Google, Apr 3, 2019)
+1. Microsoft COCO Captions: Data Collection and Evaluation Server (Apr 2015)
+2. VQA: Visual Question Answering (May 2015)
+3. VideoBERT: A Joint Model for Video and Language Representation Learning (Google, Apr 3, 2019)
 LXMERT: Learning Cross-Modality Encoder Representations from Transformers (UNC Chapel Hill, Aug 20, 2019)
 [CLIP] Learning Transferable Visual Models From Natural Language Supervision (OpenAI, 2021)
 Unifying Vision-and-Language Tasks via Text Generation (UNC Chapel Hill, May 2021)
@@ -54,3 +54,15 @@ Towards Expert-Level Medical Question Answering with Large Language Models (Sing
 Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models (Luo et al., May 24, 2023)
 Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic (SenseTime, Jun 3, 2023)
 Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration (Tencent, Jun 15, 2023)
+
+
+1. Pagliardini, M., Paliotta, D., Jaggi, M., & Fleuret, F. (2023). Fast Attention Over Long Sequences With Dynamic Sparse Flash Attention. Neural Information Processing Systems.
+2. Li, J., Cotterell, R., & Sachan, M. (2021). Differentiable Subset Pruning of Transformer Heads. Transactions of the Association for Computational Linguistics, 9, 1442–1459.
+3. Goyal, S., et al. (2020). PoWER-BERT: Accelerating BERT Inference via Progressive Word-vector Elimination. International Conference on Machine Learning.
+4. Wang, S., et al. (2020). Linformer: Self-Attention with Linear Complexity. ArXiv, abs/2006.04768.
+5. Kitaev, N., et al. (2020). Reformer: The Efficient Transformer. ArXiv, abs/2001.04451.
+6. Choromanski, K., et al. (2020). Rethinking Attention with Performers. ArXiv, abs/2009.14794.
+7. Micikevicius, P., et al. (2017). Mixed Precision Training. ArXiv, abs/1710.03740.
+8. Sun, X., et al. (2020). Ultra-Low Precision 4-bit Training of Deep Neural Networks. Neural Information Processing Systems.
+9. Xiong, R., et al. (2020). On Layer Normalization in the Transformer Architecture. ArXiv, abs/2002.04745.
+10. Chen, T., et al. (2016). Training Deep Nets with Sublinear Memory Cost. ArXiv, abs/1604.06174
