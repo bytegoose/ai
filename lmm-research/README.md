@@ -24,6 +24,10 @@ GPT4o - it accepts as input any combination of text, audio, image, and video and
 
 Paligemma : https://github.com/google-research/big_vision/tree/main/big_vision/configs/proj/paligemma
 
+Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integrationhttps://github.com/lyuchenyang/Macaw-LLM
+
+Kosmos-1: Language Is Not All You Need: Aligning Perception with Language Models https://arxiv.org/abs/2302.14045
+
 ## Applications BioTech & Health Care
 Pathology Assistant: https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology
 
