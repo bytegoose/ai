@@ -72,3 +72,5 @@ Language and Vision Assistant for Medicine: https://github.com/microsoft/LLaVA-M
 8. Sun, X., et al. (2020). Ultra-Low Precision 4-bit Training of Deep Neural Networks. Neural Information Processing Systems.
 9. Xiong, R., et al. (2020). On Layer Normalization in the Transformer Architecture. ArXiv, abs/2002.04745.
 10. Chen, T., et al. (2016). Training Deep Nets with Sublinear Memory Cost. ArXiv, abs/1604.06174
+11. Foundations & Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions. https://arxiv.org/pdf/2209.03430
+12. Language Is Not All You Need: Aligning Perception with Language Models. https://arxiv.org/abs/2302.14045
