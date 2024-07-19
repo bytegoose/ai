@@ -9,9 +9,41 @@ Conv Layer: Output Size= ( Input Size−Filter Size+2×Padding) / Stride + 1
 
 
 ### LLM Compression Training and Inference
+Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding, https://arxiv.org/abs/1510.00149
+![image](https://github.com/user-attachments/assets/fb2c2d0a-f0b5-44bd-9008-5616670037f7)
+
 #### Pruning
+Pruning Synapses vs Pruning Neurons
+Memory is Expensive: 32 bit DRAM Memroy ~640 pJ vs 32 bit int Add ~0.1 pJ
+ - Pruning  at different  Granularities
+ - Iterative Pruning
+ - Magnitude Based Pruning
+ - Scaled based Pruning
+ - Second Order Based Pruning
+ - Percentage Zero Based Pruning
+ - Regression base Pruning
+ - Parallelization on Sparsity
+ - 
+
+AutoML for Pruning: https://github.com/mit-han-lab/amc
+
+   Hardware support for sparsity:
+   - EIE: Efficient Inference Engine on Compressed Deep Neural Network, https://arxiv.org/abs/1602.01528
+   - SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning, https://arxiv.org/abs/2012.09852
+   - NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications, https://arxiv.org/abs/1804.03230
+
+  System Support for sparsity:
+   - Accelerating Sparse Deep Neural Networks, https://arxiv.org/abs/2104.08378
+
+
 #### Sparsity
 #### Quantization
+Neural Network Quantization
+ - k-means based quantization
+ - weight quantization
+ - huffman coding
+ - 
+
 #### Neural Architecture Search
 #### Knowledge Distillation
 Knowledge distillation is a machine learning technique that involves transferring knowledge from a large, complex model (the "teacher" model) to a smaller, more efficient model (the "student" model). The goal is to enable the student model to achieve similar performance to the teacher model while being more compact and faster to run, which is particularly useful for applications with resource constraints, such as mobile devices or embedded systems.
@@ -20,6 +52,10 @@ Knowledge distillation is a machine learning technique that involves transferrin
 
 ### ML Performance Benchmarks
 MLPerf https://mlcommons.org/benchmarks/
+MLPerf: Closed Devision / Open Devision / Speedup
+
+## Labs References 
+https://github.com/yifanlu0227/MIT-6.5940
 
 
 ## References
@@ -61,6 +97,10 @@ Luiz Velho's Fundamentals and Trends in Vision and Image Processing class at IMP
 UC Berkeley's CS294-158-SP20: Deep Unsupervised Learning class (Spring 2020)
 Scott Wehrwein's CSCI 497P/597P - Introduction to Computer Vision class at Western Washington University (Spring 2020)
 Andrew Owens' EECS 504: Foundations of Computer Vision class at the University of Michigan (Winter 2020)
+
+### Image/ Video Processing libraries (cameras, embedded, etc)
+https://facebookresearch.github.io/ocean/
+https://arxiv.org/abs/2407.13764 4D reconstruction
 
 
 
