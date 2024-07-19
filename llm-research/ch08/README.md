@@ -52,6 +52,10 @@ Knowledge distillation is a machine learning technique that involves transferrin
 
 ### On-Device Training
 
+## LLM models Inference, orchestration, serving
+ - Efficient Memory Management for Large Language Model Serving with PagedAttention, https://arxiv.org/abs/2309.06180, 
+   https://github.com/vllm-project/vllm
+
 ### ML Performance Benchmarks
 MLPerf https://mlcommons.org/benchmarks/
 MLPerf: Closed Devision / Open Devision / Speedup
