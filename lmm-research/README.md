@@ -1,6 +1,12 @@
 # LMM - Large Multimodal Models
 ## Modalities: text, audio, speech, video, image
 
+![image](https://github.com/user-attachments/assets/924579df-a8e1-4715-a455-e0ccfacad76f)
+reference: Macaw-LLM
+
+
+
+
 ## Architectures (multilingual, audio, and vision capabilities)
 BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models: https://arxiv.org/abs/2301.12597
 
@@ -24,9 +30,14 @@ GPT4o - it accepts as input any combination of text, audio, image, and video and
 
 Paligemma : https://github.com/google-research/big_vision/tree/main/big_vision/configs/proj/paligemma
 
-Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integrationhttps://github.com/lyuchenyang/Macaw-LLM
+Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration https://github.com/lyuchenyang/Macaw-LLM
+ - CLIP: Responsible for encoding images and video frames.
+ - Whisper: Responsible for encoding audio data.
+ - LLM (LLaMA/Vicuna/Bloom): The language model that encodes instructions and generates responses.
 
 Kosmos-1: Language Is Not All You Need: Aligning Perception with Language Models https://arxiv.org/abs/2302.14045
+
+CogVLM2: Text and Video, https://github.com/THUDM/CogVLM2
 
 ## Applications BioTech & Health Care
 Pathology Assistant: https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology
