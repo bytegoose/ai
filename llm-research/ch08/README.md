@@ -42,6 +42,8 @@ Neural Network Quantization
  - k-means based quantization
  - weight quantization
  - huffman coding
+ - Linear Quantization
+ - Quantization Granularity (per-tensor, per-channel, per-group quantization)
  - 
 
 #### Neural Architecture Search
