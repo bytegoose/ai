@@ -1,5 +1,9 @@
 # This the latest status of LLMs models, architectures, presented as step by step course
 
+## Model Training
+## Model Serving/ Inference
+ - fast Inference: https://github.com/vllm-project/vllm, 
+  https://blog.vllm.ai/2023/06/20/vllm.html
 
 ### References
 - Multi-Agent Systems https://github.com/togethercomputer/MoA
