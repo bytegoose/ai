@@ -63,3 +63,5 @@ Preparing for the Future: Skills and Knowledge Required for AI Researchers
  - huggingface.co
  - https://www.modelscope.cn/models
  - https://ai.meta.com/meta-ai/
+ - https://www.zhipuai.cn/en/
+ - 
