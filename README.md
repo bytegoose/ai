@@ -13,12 +13,12 @@ To examine how AI is being applied in various industry sectors, focusing on real
 
 To equip participants with the skills to critically evaluate and contribute to the latest AI research.
 
-## Breakdown of Course Outline:
+## Breakdown of Research Outline:
 
 ### Model Fundamentals Stack
 Architecture - Data - Optimization - Systems
 
-### Course 1: Introduction to Large Language Models (LLMs)
+### Research Focus 1: Introduction to Large Language Models (LLMs). 
 
 Overview of LLMs: History and Evolution
 
@@ -28,7 +28,7 @@ Case Studies: GPT-3, BERT, and T5
 
 Ethical Considerations and Bias in LLMs
 
-### Course 2: Large Visual Models (LVMs)
+### Research Focus 2: Large Visual Models (LVMs). Research Focus
 
 Introduction to LVMs: From Convolutional Neural Networks to Vision Transformers
 
@@ -36,24 +36,30 @@ Advanced Techniques: Object Detection, Image Segmentation, and Generative Models
 
 Case Studies: DALL-E, CLIP, and VisualGPT
 
-### Course 3: Applied AI in Industry Tasks. Applications in Healthcare, Autonomous Vehicles, and Media, Pharma, etc
+### Research Focus 3: Applied AI in Industry Tasks. Applications in Healthcare, Autonomous Vehicles, and Media, Pharma, etc
 
-#### Course 3.1 AI in Manufacturing: Predictive Maintenance and Quality Control
+#### Focus 3.1 AI in Manufacturing: Predictive Maintenance and Quality Control
 
-#### Course 3.2 AI in Finance: Fraud Detection and Algorithmic Trading
+#### Focus 3.2 AI in Finance: Fraud Detection and Algorithmic Trading
 
-#### Course 3.3 AI in Healthcare: Diagnostics, Personalized Medicine, and Telemedicine
+#### Focus 3.3 AI in Healthcare: Diagnostics, Personalized Medicine, and Telemedicine
 
-#### Course 3.4 AI in Retail: Customer Behavior Analysis and Inventory Management
+#### Focus 3.4 AI in Retail: Customer Behavior Analysis and Inventory Management
 
-#### Course 3.5 AI in Pharma: AI Powered Drug Discovery and Longevity
+#### Focus 3.5 AI in Pharma: AI Powered Drug Discovery and Longevity
 
 #### Module Ethical and Regulatory Challenges in Industry Applications
 
-### Course 4: Future Directions and Research Opportunities
+### Focus 4: Future Directions and Research Opportunities
 
 Emerging Trends in AI: Multimodal Learning and Explainable AI
 
 Collaborative Research Opportunities: Industry-Academia Partnerships
 
 Preparing for the Future: Skills and Knowledge Required for AI Researchers
+
+## AI Research platforms
+ - https://www.01.ai/  github: https://01-ai.github.io/
+ - huggingface.co
+ - https://www.modelscope.cn/models
+ - https://ai.meta.com/meta-ai/
